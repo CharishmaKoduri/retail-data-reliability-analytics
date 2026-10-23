@@ -22,7 +22,7 @@ The project follows this workflow:
 
 
 
-1\. \*\*Source inspection\*\* — inspect the original Excel workbook and its schema.
+1. \*\*Source inspection\*\* — inspect the original Excel workbook and its schema.
 
 2\. \*\*Data-quality auditing\*\* — measure missing values, exact duplicates, cancellations, negative quantities, and unusual prices.
 
