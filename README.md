@@ -1,8 +1,8 @@
-\# Retail Data Reliability \& Analytics Platform
+# Retail Data Reliability \& Analytics Platform
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,7 +14,7 @@ The project uses the UCI Online Retail dataset to demonstrate data-quality analy
 
 
 
-\## Architecture
+## Architecture
 
 
 
@@ -44,15 +44,15 @@ The project follows this workflow:
 
 
 
-\- Python
+- Python
 
-\- pandas
+- pandas
 
-\- PostgreSQL
+- PostgreSQL
 
-\- Psycopg
+- Psycopg
 
-\- pytest
+- pytest
 
 \- SQL
 
